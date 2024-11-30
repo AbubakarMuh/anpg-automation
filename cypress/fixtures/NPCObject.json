@@ -1,0 +1,7 @@
+{
+  "pirField": "Privacy Information Requirements",
+  "pimsField": "div > p:nth-of-type(2)",
+  "readPIMS": "[class='mt-2'] button",
+  "backBtn": ".mt-5 > .text-xs",
+  "npcWebsiteLink": "[target]"
+}

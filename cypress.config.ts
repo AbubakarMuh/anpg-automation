@@ -22,7 +22,7 @@ async function setupNodeEvents(
 
 export default defineConfig({
   e2e: {
-    baseUrl: "https://verxid.com/",
+    baseUrl: "https://attestation.nationalpopulation.gov.ng/",
     defaultCommandTimeout: 10000,
     viewportHeight: 900,
     viewportWidth: 1400,

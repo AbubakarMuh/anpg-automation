@@ -18,5 +18,4 @@ To run the automated tests, follow these steps:
 
 Note:
 
-I commented the Register feature out, reason been that when i tried to register manually and i clicked on REGISTER button, the page kept loading endlessly which allow my code to failing.
-There is a bug on the regiter page which Automation has helped me catch that.
+I have navigated a single feature to demostrate how automation would help complete regression test within millisecond.
