@@ -1,0 +1,19 @@
+{
+  "name": "verxid-automation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "abubakar Muhammed<abubakar_muhammed19@yahoo.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "@badeball/cypress-cucumber-preprocessor": "^17.2.1",
+    "@cypress/browserify-preprocessor": "^3.0.2",
+    "cypress": "^12.14.0",
+    "typescript": "^5.1.3"
+  }
+
+}
